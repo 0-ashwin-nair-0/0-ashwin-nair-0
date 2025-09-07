@@ -33,6 +33,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output             # Branch where the graph will be published
-          build_dir: ./output               # Folder containing the generated Pacman graph
+          build_dir: ./out             # Folder containing the generated Pacman graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
