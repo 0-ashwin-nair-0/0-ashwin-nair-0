@@ -6,9 +6,8 @@ on:
     - cron: "0 0 * * *"  # runs daily at 00:00
   workflow_dispatch:
 
-# Required permissions to push files
 permissions:
-  contents: write
+  contents: write  # required to push files to your repo
 
 jobs:
   generate:
@@ -28,11 +27,17 @@ jobs:
           USERNAME: 0-ashwin-nair-0          # Replace with your GitHub username
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated graph to GitHub Pages
+      # Step 3: Ensure output folder exists (prevents deployment errors)
+      - name: Ensure output folder exists
+        run: mkdir -p out
+
+      # Step 4: Deploy generated graph to GitHub Pages
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output             # Branch where the graph will be published
-          build_dir: ./out             # Folder containing the generated Pacman graph
+          build_dir: ./out                  # Folder containing the Pacman graph
+          keep_history: false
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
