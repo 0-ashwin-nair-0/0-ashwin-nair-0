@@ -1,9 +1,12 @@
-name: 3D Profile Contributions
+name: Generate Pacman Contribution Graph
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *" # runs daily
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ allows pushing files to your repo
 
 jobs:
   build:
@@ -11,7 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate 3D GitHub Profile
+      - name: Generate Pacman graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: 0-ashwin-nair-0
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: ./out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
