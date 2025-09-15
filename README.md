@@ -1,4 +1,4 @@
-<h1 align="center">Hello🙋‍♂️ I'm Er.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Ashwin Nair<br>Welcome to my Github</h1>
+<h1 align="center">Hello🙋‍♂️ I'm Er.Ashwin Nair<br>Welcome to my Github</h1>
 
 ###
 
@@ -47,14 +47,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kinjal-surve-b638b1288" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwin-nair0309/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/kiwi150603" target="_blank">
+  <a href="https://x.com/0_ashwin_nair_0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/kinjalsurvepune" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ashwin_nair0309" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/2/#sent?compose=CllgCJTLqDgrbQPDJsxctGsnQLqdRPKXVbSVgjdlLKdhtrlvtBCQzdtczjTkNHPCQgmNNqLtsGV" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -63,14 +66,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0-ashwin-nair-0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0-ashwin-nair-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-ashwin-nair-0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=0-ashwin-nair-0&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=0-ashwin-nair-0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-ashwin-nair-0&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
