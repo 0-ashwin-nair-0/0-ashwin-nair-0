@@ -2,17 +2,23 @@ name: Update README with Latest Projects
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
+    - cron: "0 0 * * *"
   push:
     branches: [main]
-  workflow_dispatch:       # lets you trigger manually from GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch latest repos and update README
         uses: actions/github-script@v7
@@ -21,7 +27,6 @@ jobs:
           script: |
             const fs = require('fs');
 
-            // Fetch your 3 most recently pushed public repos (excluding the profile repo itself)
             const { data: repos } = await github.rest.repos.listForUser({
               username: '0-ashwin-nair-0',
               sort: 'pushed',
@@ -34,7 +39,6 @@ jobs:
               .filter(r => !r.fork && r.name !== '0-ashwin-nair-0')
               .slice(0, 3);
 
-            // Build the markdown block
             const rows = filtered.map(repo => {
               const lang = repo.language || 'N/A';
               const desc = repo.description || 'No description yet.';
@@ -52,7 +56,6 @@ jobs:
 
             const block = `<!-- PROJECTS:START -->\n${table}\n<!-- PROJECTS:END -->`;
 
-            // Read README and replace the section
             let readme = fs.readFileSync('README.md', 'utf8');
             readme = readme.replace(
               /<!-- PROJECTS:START -->[\s\S]*?<!-- PROJECTS:END -->/,
@@ -66,5 +69,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: auto-update latest projects"
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: auto-update latest projects"
           git push
