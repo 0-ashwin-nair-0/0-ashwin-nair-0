@@ -104,7 +104,7 @@ public class Ashwin {
 
 | # | Event | Organizer | Result |
 |---|-------|-----------|--------|
-| 1 | Sustainable Development Goals Hackathon | — | 🥇 1st Place |
+| 1 | Sustainable Development Goals Hackathon | Pimpri Chinchwad University | 🥇 1st Place |
 | 2 | Code4Society | Samsung Innovation Campus | 🥈 2nd Place |
 
 </div>
