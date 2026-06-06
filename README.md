@@ -79,6 +79,11 @@ public class Ashwin {
 ## 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
+| Project | Language | Description | Stars |
+|---------|----------|-------------|-------|
+| 🔗 [**Student-Report-Card-Management-System**](https://github.com/0-ashwin-nair-0/Student-Report-Card-Management-System) | `Java` | Student Report Card Management System is a Java console-based application designed to manage student academic records. The system allows administrators to store student details, record subject-wise marks, calculate averages, generate grades, and display report cards. | ⭐ 0 |
+| 🔗 [**basic_calculator_engine**](https://github.com/0-ashwin-nair-0/basic_calculator_engine) | `Java` | Basic Calculator Engine is a Java-based console application that performs mathematical operations, maintains calculation history, and provides an interactive menu-driven user experience. Built to strengthen core Java programming concepts including methods, arrays, collections, loops, conditional logic, and the Math API. | ⭐ 0 |
+| 🔗 [**sic_hackathon_nova**](https://github.com/0-ashwin-nair-0/sic_hackathon_nova) | `JavaScript` | AI-powered platform for real-time monitoring, predictive analytics, and optimization of smart city infrastructure. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
