@@ -66,28 +66,11 @@ public class Ashwin {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=0-ashwin-nair-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-ashwin-nair-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0-ashwin-nair-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0-ashwin-nair-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0-ashwin-nair-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8)
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=0-ashwin-nair-0&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+![GitHub Streak](https://streak-stats.demolab.com?user=0-ashwin-nair-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888)
 
 </div>
 
@@ -96,11 +79,6 @@ public class Ashwin {
 ## 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
-| Project | Language | Description | Stars |
-|---------|----------|-------------|-------|
-| 🔗 [**Student-Report-Card-Management-System**](https://github.com/0-ashwin-nair-0/Student-Report-Card-Management-System) | `Java` | Student Report Card Management System is a Java console-based application designed to manage student academic records. The system allows administrators to store student details, record subject-wise marks, calculate averages, generate grades, and display report cards. | ⭐ 0 |
-| 🔗 [**basic_calculator_engine**](https://github.com/0-ashwin-nair-0/basic_calculator_engine) | `Java` | Basic Calculator Engine is a Java-based console application that performs mathematical operations, maintains calculation history, and provides an interactive menu-driven user experience. Built to strengthen core Java programming concepts including methods, arrays, collections, loops, conditional logic, and the Math API. | ⭐ 0 |
-| 🔗 [**sic_hackathon_nova**](https://github.com/0-ashwin-nair-0/sic_hackathon_nova) | `JavaScript` | AI-powered platform for real-time monitoring, predictive analytics, and optimization of smart city infrastructure. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
@@ -115,30 +93,14 @@ public class Ashwin {
 
 ---
 
-## 🏅 Hackathon Achievements
+## 🏅 Hackathons
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🥇%20FIRST%20PRIZE-gold?style=for-the-badge&logoColor=white" /><br/><br/>
-      <b>Smart City Resource Optimization</b><br/>
-      <sub>AI-powered system for real-time urban resource allocation & smart infrastructure management</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🥈%20FIRST%20RUNNER--UP-silver?style=for-the-badge&logoColor=white" /><br/><br/>
-      <b>Hackathon Project</b><br/>
-      <sub>Competing and delivering under pressure — consistently on the podium</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Built%20to%20Win-7c3aed?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-> 💬 *"I don't just participate — I compete to win."*
+| # | Event | Organizer | Result |
+|---|-------|-----------|--------|
+| 1 | Sustainable Development Goals Hackathon | — | 🥇 1st Place |
+| 2 | Code4Society | Samsung Innovation Campus | 🥈 2nd Place |
 
 </div>
 
@@ -159,8 +121,6 @@ public class Ashwin {
 <div align="center">
 
 ### 🌱 Always learning. Always building. Always improving.
-
-*"The best time to start was yesterday. The second best time is now."*
 
 <br/>
 
