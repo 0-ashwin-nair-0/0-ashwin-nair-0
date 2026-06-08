@@ -76,6 +76,11 @@ public class Ashwin {
 ## 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
+| Project | Language | Description | Stars |
+|---------|----------|-------------|-------|
+| 🔗 [**java-journey**](https://github.com/0-ashwin-nair-0/java-journey) | `Java` | Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development. | ⭐ 0 |
+| 🔗 [**Student-Report-Card-Management-System**](https://github.com/0-ashwin-nair-0/Student-Report-Card-Management-System) | `Java` | Student Report Card Management System is a Java console-based application designed to manage student academic records. The system allows administrators to store student details, record subject-wise marks, calculate averages, generate grades, and display report cards. | ⭐ 0 |
+| 🔗 [**basic_calculator_engine**](https://github.com/0-ashwin-nair-0/basic_calculator_engine) | `Java` | Basic Calculator Engine is a Java-based console application that performs mathematical operations, maintains calculation history, and provides an interactive menu-driven user experience. Built to strengthen core Java programming concepts including methods, arrays, collections, loops, conditional logic, and the Math API. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
