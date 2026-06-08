@@ -67,7 +67,7 @@ public class Ashwin {
 <div align="center">
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=0-ashwin-nair-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com?user=0-ashwin-nair-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&v=2)
 
 </div>
 
@@ -76,11 +76,6 @@ public class Ashwin {
 ## 🚀 Latest Projects
 
 <!-- PROJECTS:START -->
-| Project | Language | Description | Stars |
-|---------|----------|-------------|-------|
-| 🔗 [**java-journey**](https://github.com/0-ashwin-nair-0/java-journey) | `Java` | Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development. | ⭐ 0 |
-| 🔗 [**Student-Report-Card-Management-System**](https://github.com/0-ashwin-nair-0/Student-Report-Card-Management-System) | `Java` | Student Report Card Management System is a Java console-based application designed to manage student academic records. The system allows administrators to store student details, record subject-wise marks, calculate averages, generate grades, and display report cards. | ⭐ 0 |
-| 🔗 [**basic_calculator_engine**](https://github.com/0-ashwin-nair-0/basic_calculator_engine) | `Java` | Basic Calculator Engine is a Java-based console application that performs mathematical operations, maintains calculation history, and provides an interactive menu-driven user experience. Built to strengthen core Java programming concepts including methods, arrays, collections, loops, conditional logic, and the Math API. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
@@ -101,7 +96,7 @@ public class Ashwin {
 
 | # | Event | Organizer | Result |
 |---|-------|-----------|--------|
-| 1 | Sustainable Development Goals Hackathon | Pimpri Chinchwad University | 🥇 1st Place |
+| 1 | Sustainable Development Goals Hackathon | — | 🥇 1st Place |
 | 2 | Code4Society | Samsung Innovation Campus | 🥈 2nd Place |
 
 </div>
@@ -112,7 +107,7 @@ public class Ashwin {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-rejikumar-nair/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-nair0309/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashwin_nair0309)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashwin_nair309)
 
