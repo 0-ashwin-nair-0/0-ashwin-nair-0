@@ -78,9 +78,9 @@ public class Ashwin {
 <!-- PROJECTS:START -->
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
-| 🔗 [**employee-management-system-java**](https://github.com/0-ashwin-nair-0/employee-management-system-java) | `Java` | A simple Java-based Employee Management System developed to demonstrate core Object-Oriented Programming (OOP) concepts in Java. This project showcases the implementation of classes, objects, constructors, encapsulation, validation using setters, salary calculations, and employee bonus management. | ⭐ 0 |
-| 🔗 [**Book_Management_System**](https://github.com/0-ashwin-nair-0/Book_Management_System) | `Java` | A simple console-based Book Management System built using Core Java. This project demonstrates the practical use of Object-Oriented Programming concepts, arrays, user input handling, constructors, getters/setters, and basic CRUD operations. | ⭐ 0 |
+| 🔗 [**music-shop-java-oops**](https://github.com/0-ashwin-nair-0/music-shop-java-oops) | `Java` | A Java-based Object-Oriented Programming (OOP) project that simulates a Music Shop by modeling different musical instruments and their behaviors. This project demonstrates core OOP principles such as Abstraction, Encapsulation, Inheritance, Polymorphism, and Interfaces through a real-world example. | ⭐ 0 |
 | 🔗 [**java-journey**](https://github.com/0-ashwin-nair-0/java-journey) | `Java` | Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development. | ⭐ 0 |
+| 🔗 [**employee-management-system-java**](https://github.com/0-ashwin-nair-0/employee-management-system-java) | `Java` | A simple Java-based Employee Management System developed to demonstrate core Object-Oriented Programming (OOP) concepts in Java. This project showcases the implementation of classes, objects, constructors, encapsulation, validation using setters, salary calculations, and employee bonus management. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
