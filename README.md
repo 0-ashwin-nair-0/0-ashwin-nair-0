@@ -78,9 +78,9 @@ public class Ashwin {
 <!-- PROJECTS:START -->
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
+| 🔗 [**java-journey**](https://github.com/0-ashwin-nair-0/java-journey) | `Java` | Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development. | ⭐ 0 |
 | 🔗 [**phone-book-management-system**](https://github.com/0-ashwin-nair-0/phone-book-management-system) | `Java` | A console-based Phone Book Management System developed in Java using the HashMap Collection Framework. This application allows users to store, search, view, and delete contacts while validating names and phone numbers using regular expressions. | ⭐ 0 |
 | 🔗 [**basic-task-manager-java**](https://github.com/0-ashwin-nair-0/basic-task-manager-java) | `Java` | A simple command-line Task Management System built using Java and ArrayList. This project allows users to create, view, update, and delete tasks while managing task priorities and statuses. | ⭐ 0 |
-| 🔗 [**music-shop-java-oops**](https://github.com/0-ashwin-nair-0/music-shop-java-oops) | `Java` | A Java-based Object-Oriented Programming (OOP) project that simulates a Music Shop by modeling different musical instruments and their behaviors. This project demonstrates core OOP principles such as Abstraction, Encapsulation, Inheritance, Polymorphism, and Interfaces through a real-world example. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
