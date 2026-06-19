@@ -128,6 +128,6 @@ public class Ashwin {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=0-ashwin-nair-0&label=Profile%20Views&color=blue&style=flat)
+[![Hits](https://hits.sh/github.com/0-ashwin-nair-0.svg?style=for-the-badge)](https://hits.sh)
 
 </div>
