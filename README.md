@@ -120,11 +120,7 @@ public class Ashwin {
 
 ---
 <div>
-    ## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=0-ashwin-nair-0&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://visitcount.itsvg.in/api?id=0-ashwin-nair-0&icon=5&color=12)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0-ashwin-nair-0&show_icons=true&theme=tokyonight&hide_border=true)
 </div>
 
 <div align="center">
