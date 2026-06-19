@@ -119,7 +119,7 @@ public class Ashwin {
 </div>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=0-ashwin-nair-0&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-ashwin-nair-0&theme=tokyonight)
 
 <div align="center">
 
