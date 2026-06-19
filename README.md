@@ -119,7 +119,9 @@ public class Ashwin {
 </div>
 
 ---
+<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-ashwin-nair-0&theme=tokyonight)
+</div>
 
 <div align="center">
 
