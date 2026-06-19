@@ -129,5 +129,6 @@ public class Ashwin {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 [![Hits](https://hits.sh/github.com/0-ashwin-nair-0.svg?style=for-the-badge)](https://hits.sh)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-ashwin-nair-0&theme=tokyonight)
 
 </div>
