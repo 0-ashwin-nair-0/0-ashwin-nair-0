@@ -119,9 +119,7 @@ public class Ashwin {
 </div>
 
 ---
-<div>
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0-ashwin-nair-0&show_icons=true&theme=tokyonight&hide_border=true)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0-ashwin-nair-0&show_icons=true&theme=tokyonight&hide_border=true)
 
 <div align="center">
 
