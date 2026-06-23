@@ -80,7 +80,7 @@ public class Ashwin {
 |---------|----------|-------------|-------|
 | 🔗 [**java-journey**](https://github.com/0-ashwin-nair-0/java-journey) | `Java` | Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development. | ⭐ 0 |
 | 🔗 [**phone-book-management-system**](https://github.com/0-ashwin-nair-0/phone-book-management-system) | `Java` | A console-based Phone Book Management System developed in Java using the HashMap Collection Framework. This application allows users to store, search, view, and delete contacts while validating names and phone numbers using regular expressions. | ⭐ 0 |
-| 🔗 [**basic-task-manager-java**](https://github.com/0-ashwin-nair-0/basic-task-manager-java) | `Java` | A simple command-line Task Management System built using Java and ArrayList. This project allows users to create, view, update, and delete tasks while managing task priorities and statuses. | ⭐ 0 |
+| 🔗 [**employee-management-system-java**](https://github.com/0-ashwin-nair-0/employee-management-system-java) | `Java` | A simple Java-based Employee Management System developed to demonstrate core Object-Oriented Programming (OOP) concepts in Java. This project showcases the implementation of classes, objects, constructors, encapsulation, validation using setters, salary calculations, and employee bonus management. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
