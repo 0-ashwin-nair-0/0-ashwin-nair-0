@@ -78,9 +78,9 @@ public class Ashwin {
 <!-- PROJECTS:START -->
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
+| 🔗 [**student-management-system**](https://github.com/0-ashwin-nair-0/student-management-system) | `N/A` | No description yet. | ⭐ 0 |
+| 🔗 [**quiz-application-capstone**](https://github.com/0-ashwin-nair-0/quiz-application-capstone) | `N/A` | No description yet. | ⭐ 0 |
 | 🔗 [**java-journey**](https://github.com/0-ashwin-nair-0/java-journey) | `Java` | Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development. | ⭐ 0 |
-| 🔗 [**library-management-system-java**](https://github.com/0-ashwin-nair-0/library-management-system-java) | `Java` | A Java-based console application for managing books in a library using Object-Oriented Programming principles and the Java Collections Framework. | ⭐ 0 |
-| 🔗 [**phone-book-management-system**](https://github.com/0-ashwin-nair-0/phone-book-management-system) | `Java` | A console-based Phone Book Management System developed in Java using the HashMap Collection Framework. This application allows users to store, search, view, and delete contacts while validating names and phone numbers using regular expressions. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
